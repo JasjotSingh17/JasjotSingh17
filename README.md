@@ -8,7 +8,7 @@ I'm a math graduate from the University of Waterloo who builds things with data 
 
 I care about getting the *why* right, not just running the numbers. That means choosing the right statistical test for the right reason, designing data models that actually support the questions being asked, and making findings legible to someone who isn't staring at the same spreadsheet I am.
 
-Currently looking for my first full-time DA role. Open to Waterloo, Toronto, or remote.
+Currently looking for my first full-time Data Analyst role. Open to Waterloo, Toronto, or remote.
 
 ---
 
